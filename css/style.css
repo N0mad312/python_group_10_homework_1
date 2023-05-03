@@ -1,0 +1,37 @@
+body{
+    background-color: aqua;
+    color: orangered;
+}
+a{
+    color:seagreen;
+}
+.description{
+    text-transform: uppercase
+}
+
+.serial-list{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.tbl{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tbl th{
+    border: 2px solid blue;
+}
+
+.tbl td{
+    border: 2px solid blue;
+    text-align: center;
+}
+
+.letter{
+    color: blueviolet;
+    font-size: 30px ;
+}
+.image{
+    width: 90%;
+}
